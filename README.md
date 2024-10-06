@@ -66,7 +66,7 @@
 <img src="https://raw.githubusercontent.com/priyadharshan2003/priyadharshan2003/output/snake.svg" alt="Snake animation" />
 
 ## 🎵 Recently Played
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=k1hy9xfh5xu1vpxtiews1416y&count={1})
+![Spotify recenty played](https://spotify-recently-played-readme.vercel.app/api?user=k1hy9xfh5xu1vpxtiews1416y&count=1)
 
 <!-- I am Priyadharshan C, currently Pursuing my Bachelor of Electronics and Communication Engineering Course at Sona College of Technology, Salem. I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
