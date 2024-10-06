@@ -64,7 +64,7 @@
 
 ## 🐍 Contribution Graph
 
-<img src="https://raw.githubusercontent.com/Priyadharshan2003/Priyadharshan2003/output/snake.svg" alt="Snake animation" />
+  ![Snake animation](https://github.com/priyadharshan2003/priyadharshan2003/blob/output/github-contribution-grid-snake.svg)
 
 <!-- I am Priyadharshan C, currently Pursuing my Bachelor of Electronics and Communication Engineering Course at Sona College of Technology, Salem. I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
