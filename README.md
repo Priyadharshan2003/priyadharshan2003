@@ -1,15 +1,27 @@
 # Hi 👋 I am Priyadharshan👈
 ## 🖌️ Designer - 👨🏻‍💻 Developer - 🧑🏻‍🔬 Engineer
 
-<div align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyadharshan2003&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyadharshan2003&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=priyadharshan2003&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+    </td>
+    <td rowspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyadharshan2003&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Priyadharshan2003&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://leetcode.card.workers.dev/D34ULT?theme=dark&font=&extension=null" height="150" alt="LeetCode Stats" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Priyadharshan2003&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://leetcode.card.workers.dev/D34ULT?theme=dark&font=&extension=null" height="150" alt="LeetCode Stats" />
-</div>
 
 ## 🚀 Stacks
 
