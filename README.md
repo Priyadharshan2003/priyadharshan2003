@@ -1,8 +1,5 @@
 # Hi 👋 I am Priyadharshan👈
 
-<div id="header" align="center">
-  [Relaxing Room](https://my.spline.design/roomrelaxingcopy-01aefdaf14186088acf585252b1ca438/)
-</div>
 
 ## 🖌️ Designer - 👨🏻‍💻 Developer - 🧑🏻‍🔬 Engineer
 
