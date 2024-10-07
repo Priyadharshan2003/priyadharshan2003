@@ -62,6 +62,9 @@
   <a href="https://discord.com/users/860823328730382346" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord" />
 </div>
 
+## 🏆 GitHub trophy
+<img src="https://github-profile-trophy.vercel.app/?username=priyadharshan2003&theme=juicyfresh&no-bg=true" />
+
 ## 🐍 Contribution Graph
 <img src="https://raw.githubusercontent.com/priyadharshan2003/priyadharshan2003/output/snake.svg" alt="Snake animation" />
 
