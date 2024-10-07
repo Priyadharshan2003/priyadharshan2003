@@ -16,7 +16,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td >
       <img src="https://leetcode.card.workers.dev/D34ULT?theme=dark&font=&extension=null" height="150" alt="LeetCode Stats" />
     </td>
   </tr>
