@@ -1,7 +1,7 @@
 # Hi 👋 I am Priyadharshan👈
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height = "350" width="300"/>
+  [Relaxing Room](https://my.spline.design/roomrelaxingcopy-01aefdaf14186088acf585252b1ca438/)
 </div>
 
 ## 🖌️ Designer - 👨🏻‍💻 Developer - 🧑🏻‍🔬 Engineer
