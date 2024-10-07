@@ -61,7 +61,7 @@
   <a href="https://www.instagram.com/priyadharshan_chandranath" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram" /></a>
   <a href="mailto:priyadhrshanchandranath@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail" /></a>
   <a href="https://dribbble.com/prichan_uiux" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="40" height="30" alt="dribbble" /></a>
-  <a href="https://www.behance.net/abinanthan" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="40" height="30" alt="behance" /></a>
+  <a href="https://www.behance.net/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="40" height="30" alt="behance" /></a>
   <a href="https://t.me/Priyadharshanc" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="30" alt="telegram" /></a>
   <a href="https://discord.com/users/860823328730382346" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord" />
 </div>
