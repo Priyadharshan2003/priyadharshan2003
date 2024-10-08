@@ -14,10 +14,8 @@
 </div>
 
 <div>
-START_SECTION:waka
-  SHOW_TITLE
-  
-END_SECTION:waka
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </div>
 
 ## 🚀 Stacks
