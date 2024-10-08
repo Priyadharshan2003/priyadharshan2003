@@ -14,7 +14,7 @@
 </div>
 
 <div>
-  <figure><embed src="https://wakatime.com/share/@6ad4787a-6147-4658-ae77-b83d3f70e24a/4c928a3c-bd28-408f-996f-3d5f2885a92f.svg"></embed></figure>
+  <img src="https://wakatime.com/share/@6ad4787a-6147-4658-ae77-b83d3f70e24a/4c928a3c-bd28-408f-996f-3d5f2885a92f.svg" style="width: 400%;"/>
 </div>
 
 <div>
