@@ -13,7 +13,11 @@
   <img align="center" src="https://leetcode.card.workers.dev/D34ULT?theme=dark&font=&extension=null" height="150" alt="LeetCode Stats" style="width: 48%;"/>
 </div>
 
-
+<div>
+START_SECTION:waka
+  
+END_SECTION:waka
+</div>
 
 ## 🚀 Stacks
 
