@@ -13,12 +13,6 @@
   <img align="center" src="https://leetcode.card.workers.dev/D34ULT?theme=dark&font=&extension=null" height="150" alt="LeetCode Stats" style="width: 48%;"/>
 </div>
 
-
-<div>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-</div>
-
 ## 🚀 Stacks
 
 <div align="center">
@@ -54,9 +48,9 @@
 </div>
 
 
-<!-- <div align="center">
-  <img align="center" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXljZzRuOGg1M3UwbW93aGd0dzRzcWxpdDNramtmdXJtNmR5ZXpsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SabSYEpsVh0di/200.webp" alt="Fun GIF" />
-</div> -->
+## 🏆 GitHub trophy
+<img src="https://github-profile-trophy.vercel.app/?username=priyadharshan2003&theme=juicyfresh&no-bg=true" />
+
 
 ## 🔗 Connect with me
 
@@ -70,8 +64,18 @@
   <a href="https://discord.com/users/860823328730382346" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord" />
 </div>
 
-## 🏆 GitHub trophy
-<img src="https://github-profile-trophy.vercel.app/?username=priyadharshan2003&theme=juicyfresh&no-bg=true" />
+
+## 👨‍💻 Programming
+
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c&link=https://auth.geeksforgeeks.org/user/priyan200t19t)](https://auth.geeksforgeeks.org/user/priyan200t19t)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/priyan2003chandru/)](https://leetcode.com/priyan2003chandru/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/priyadharshan003)](https://www.hackerrank.com/priyadharshan003)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/prichan2003)](https://www.codechef.com/users/prichan2003)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/priyadharshan-the-typescripter)](https://codepen.io/priyadharshan-the-typescripter)
+[![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue&link=https://www.hackerearth.com/@priyan2003chandru)](https://www.hackerearth.com/@priyan2003chandru)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10552754/byte-hogger?tab=profile)](https://stackoverflow.com/users/10552754/byte-hogger?tab=profile)
+![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
+
 
 ## 🐍 Contribution Graph
 <img src="https://raw.githubusercontent.com/priyadharshan2003/priyadharshan2003/output/snake.svg" alt="Snake animation" />
@@ -81,6 +85,8 @@
 
 ## 🎵 Recently Played
 ![Spotify recenty played](https://spotify-recently-played-readme.vercel.app/api?user=k1hy9xfh5xu1vpxtiews1416y&count=1)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=priyadharshan.priyadharshan)
 
 <!-- I am Priyadharshan C, currently Pursuing my Bachelor of Electronics and Communication Engineering Course at Sona College of Technology, Salem. I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
@@ -94,16 +100,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Priyadharshan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/priyadharshan_chandranath/)](https://www.instagram.com/priyadharshan_chandranath/)
 [![Discord](https://img.shields.io/badge/-Priyadharshan-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/users/860823328730382346/)](https://discord.com/users/860823328730382346)
 
-## 👨‍💻 Programming
-
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c&link=https://auth.geeksforgeeks.org/user/priyan200t19t)](https://auth.geeksforgeeks.org/user/priyan200t19t)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/priyan2003chandru/)](https://leetcode.com/priyan2003chandru/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/priyadharshan003)](https://www.hackerrank.com/priyadharshan003)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white&link=https://www.codechef.com/users/prichan2003)](https://www.codechef.com/users/prichan2003)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/priyadharshan-the-typescripter)](https://codepen.io/priyadharshan-the-typescripter)
-[![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue&link=https://www.hackerearth.com/@priyan2003chandru)](https://www.hackerearth.com/@priyan2003chandru)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10552754/byte-hogger?tab=profile)](https://stackoverflow.com/users/10552754/byte-hogger?tab=profile)
-![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 
 ## ⚡ Technologies
 
@@ -137,6 +133,6 @@
 
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=priyadharshan.priyadharshan) -->
+
 
 
