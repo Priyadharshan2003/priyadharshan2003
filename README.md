@@ -77,7 +77,7 @@
 <img src="https://raw.githubusercontent.com/priyadharshan2003/priyadharshan2003/output/snake.svg" alt="Snake animation" />
 
 ## Random jokes
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 ## 🎵 Recently Played
 ![Spotify recenty played](https://spotify-recently-played-readme.vercel.app/api?user=k1hy9xfh5xu1vpxtiews1416y&count=1)
