@@ -1,5 +1,4 @@
-# Hi 👋 I am Priyadharshan👈
-<img width="55%" align="centre" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+# Hi 👋 I am Priyadharshan👈 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ## 🖌️ Designer - 👨🏻‍💻 Developer - 🧑🏻‍🔬 Engineer
 
