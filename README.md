@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=Priyadharshan2003&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5" height="150" alt="streak graph" style="width: 48%;"/>
+  <img align="center" src="https://streak-stats.demolab.com?user=Priyadharshan2003&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5" height="100" alt="streak graph" style="width: 48%;"/>
   <img align="center" src="https://leetcode.card.workers.dev/D34ULT?theme=dark&font=&extension=null" height="150" alt="LeetCode Stats" style="width: 48%;"/>
 </div>
 
