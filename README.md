@@ -14,9 +14,6 @@
   <img align="center" src="https://leetcode.card.workers.dev/D34ULT?theme=dark&font=&extension=null" height="150" alt="LeetCode Stats" style="width: 48%;"/>
 </div>
 
-## Hackatime
-
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
 ## Stats Badges
 
