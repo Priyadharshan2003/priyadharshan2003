@@ -14,6 +14,14 @@
   <img align="center" src="https://leetcode.card.workers.dev/D34ULT?theme=dark&font=&extension=null" height="150" alt="LeetCode Stats" style="width: 48%;"/>
 </div>
 
+## Hackatime
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
+## Stats Badges
+https://github-readme-stats.hackclub.dev/api/wakatime?username=4352&api_domain=hackatime.hackclub.com&theme=gotham&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+
+
+
 ## 🚀 Stacks
 
 <div align="center">
