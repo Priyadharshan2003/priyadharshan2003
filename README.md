@@ -15,11 +15,12 @@
 </div>
 
 ## Hackatime
+
 {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
 ## Stats Badges
-https://github-readme-stats.hackclub.dev/api/wakatime?username=4352&api_domain=hackatime.hackclub.com&theme=gotham&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
 
+[![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=4352&api_domain=hackatime.hackclub.com&theme=gotham&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)](https://hackatime.hackclub.com/@4352)
 
 
 ## 🚀 Stacks
